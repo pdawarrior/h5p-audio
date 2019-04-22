@@ -1,41 +1,41 @@
 {
   "semantics": [
     {
-      "label": "Source files"
+      "label": "File nguồn"
     },
     {
-      "label": "Player mode",
-      "description": "Select the layout of the player.",
+      "label": "Chế độ phát",
+      "description": "Lựa chọn bố cục chế độ phát.",
       "options": [
         {
-          "label": "Minimalistic"
+          "label": "Tối thiểu"
         },
         {
-          "label": "Full"
+          "label": "Đầy đủ"
         },
         {
-          "label": "Transparent"
+          "label": "Trong suốt"
         }
       ]
     },
     {
-      "label": "Fit to wrapper"
+      "label": "Vừa với trình bao bọc"
     },
     {
-      "label": "Enable controls",
-      "description": "Controls allow the user to for instance pause the audio"
+      "label": "Bật điều khiển",
+      "description": "Điều khiển cho phép người dùng tạm dừng âm thanh"
     },
     {
-      "label": "Enable autoplay",
-      "description": "With autoplay the audio starts to play immediately. If autoplay is disabled the user presses a play button to start the audio."
+      "label": "Bật tự động phát",
+      "description": "Với tính năng tự động phát, âm thanh bắt đầu phát ngay lập tức. Nếu tự động phát bị tắt, người dùng nhấn nút phát để bắt đầu âm thanh."
     },
     {
-      "label": "Audio content name",
-      "default": "Audio"
+      "label": "Tên nội dung âm thanh",
+      "default": "Âm thanh"
     },
     {
-      "label": "Audio not supported message",
-      "default": "Your browser does not support this audio"
+      "label": "Thông báo âm thanh không được hỗ trợ",
+      "default": "Trình duyệt của bạn không hỗ trợ âm thanh này"
     }
   ]
 }
